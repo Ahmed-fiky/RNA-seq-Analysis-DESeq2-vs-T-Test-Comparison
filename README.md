@@ -1,6 +1,6 @@
 # DESeq2 vs Statistical Methods Comparison for extracting differentially expressed genes
 
-A bioinformatics project comparing two approaches to identifying **Differentially Expressed Genes** from RNA-seq data:
+A bioinformatics project comparing two approaches to identifying **Differentially Expressed Genes** from RNA-seq training data:
 
 - **Python**: Log2-CPM normalization + t-test (implemented in a Jupyter Notebook)
 - **R**: DESeq2 (negative binomial model, standard for count-based RNA-seq data)
